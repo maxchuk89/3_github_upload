@@ -1,8 +1,6 @@
-# Виртуальное окружение
+# Environment
+.env
 .pybox/
 
-# Конспект
+# Documentation
 3_github_upload.txt
-
-# Файлы доступа
-.env
